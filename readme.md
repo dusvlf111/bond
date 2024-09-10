@@ -1,6 +1,3 @@
-
-
-```markdown
 # My Bond Package
 
 `my_bond_package`는 채권의 가격, 만기수익률(Yield to Maturity, YTM), 듀레이션, 콘벡서티 등을 계산할 수 있는 파이썬 패키지입니다. 금융 분석에서 채권의 주요 지표들을 계산하는 데 유용합니다.
